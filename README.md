@@ -1,2 +1,7 @@
-# Proffy
-Project made to connect teachers to students, made in Next Level Week #2  🚀  @Rocketseat | 🚧 In progress...
+<h1 align="center"> Proffy </h1>
+
+<p align="center"> 
+	Project designed by Rockeseat with the goal of learning ReactJs, NodeJs & React Native  
+	<br/>
+	🚧   In progress...  🚧
+</p>
