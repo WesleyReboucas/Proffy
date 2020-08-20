@@ -32,7 +32,7 @@ com a intesão de criar uma plataforma de estudos online que ajuda pessoas a enc
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
   		<img src="./.github/web.png" width="600px">
-   		<img src="./.github/mobile.png" width="220px">
+   		<img src="./.github/mobile.png" width="218px">
 </div>
 
 ## Tecnologias
