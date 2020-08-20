@@ -30,12 +30,9 @@ com a intesão de criar uma plataforma de estudos online que ajuda pessoas a enc
 
 ## Layout
 
-### Web 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-</div>
-
-### Mobile 
-<div style="display: flex; flex-direction: 'row';">
+  		<img src="./.github/web.png" width="650px">
+   		<img src="./.github/mobile.png" width="229px">
 </div>
 
 ## Tecnologias
