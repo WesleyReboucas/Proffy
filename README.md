@@ -1,13 +1,18 @@
-<h1 align="center"> Proffy </h1>
+<p align="center"> 
+	<img src='https://user-images.githubusercontent.com/28845397/90830279-c65da400-e317-11ea-9003-744707bd9ac3.png'/>
+</p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/wesley-andrade/">	
 		<img src="https://img.shields.io/static/v1?label=&message=WesleyAndrade&color=9400d3&style=flat&logo=linkedin"/>
-</a>
+	</a>
 	<a href="https://choosealicense.com/licenses/mit/">	
 		<img src="https://img.shields.io/static/v1?label=License&message=MIT&color=9400d3&style=flat"/>
 	</a>
 </p>
+
+
+
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -39,6 +44,7 @@ com a intesão de criar uma plataforma de estudos online que ajuda pessoas a enc
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [SQLite3](https://www.sqlite.org/index.html)
 
 
 ## Instalação
