@@ -26,7 +26,7 @@
 
 O Proffy é um projeto idealizado pela 
 <a href="https://rocketseat.com.br/"> **@Rocketseat** </a> 
-com a intesão de criar uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+com a intensão de criar uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
 ## Layout
 
