@@ -4,10 +4,10 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/wesley-andrade/">	
-		<img src="https://img.shields.io/static/v1?label=&message=WesleyAndrade&color=9400d3&style=flat&logo=linkedin"/>
+		<img src="https://img.shields.io/static/v1?label=&message=WesleyAndrade&color=6842c2&style=flat&logo=linkedin"/>
 	</a>
 	<a href="https://choosealicense.com/licenses/mit/">	
-		<img src="https://img.shields.io/static/v1?label=License&message=MIT&color=9400d3&style=flat"/>
+		<img src="https://img.shields.io/static/v1?label=License&message=MIT&color=6842c2&style=flat"/>
 	</a>
 </p>
 
@@ -94,7 +94,7 @@ $ yarn start
 
 ## :bookmark_tabs: Licencia
 <a href="https://choosealicense.com/licenses/mit/">
-	<img src="https://img.shields.io/static/v1?label=License&message=2020&color=9400d3&style=flat"/>
+	<img src="https://img.shields.io/static/v1?label=License&message=2020&color=A31F34&style=flat"/>
 </a>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
