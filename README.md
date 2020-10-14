@@ -47,7 +47,7 @@ com a intensão de criar uma plataforma de estudos online que ajuda pessoas a en
 ## Instalação
 ```bash
 # Clone do Repositorio
-$ git clone https://github.com/wesandrade/Proffy.git
+$ git clone https://github.com/WesleyReboucas/Proffy.git
 ```
 ### API
 
